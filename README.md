@@ -7,18 +7,23 @@ Sensor:
 <img src="Images/sensor01.jpg" alt="sensor01" width="400"/>
 <img src="Images/sensor02.jpg" alt="sensore02" width="400"/>
 
-### Video 01 Link: https://drive.google.com/file/d/1muUuauE_8MSV_i0Ff8PW1j95K-GNkTY7/view?usp=sharing 
-### Videl 02 Link: https://drive.google.com/file/d/1Q98iff1jx9BpyjaomakpaLEsOYEP4kXj/view?usp=sharing 
+### Video 01 Link:  
+https://drive.google.com/file/d/1muUuauE_8MSV_i0Ff8PW1j95K-GNkTY7/view?usp=sharing 
+### Videl 02 Link:  
+https://drive.google.com/file/d/1Q98iff1jx9BpyjaomakpaLEsOYEP4kXj/view?usp=sharing 
 
-## Data collection process and results:
+## Data collection process and results:  
+<img src="Images/sensor01.jpg" alt="sensor01" width="400"/>  
 
-![My Diagram](Images/my-diagram.png)
+## Edge Impulse model architecture and optimization:  
+<img src="Images/edgeimpluse01.png" alt="sensor01" width="300"/>  
+<img src="Images/edgeimpluse02.png" alt="sensor01" width="300"/>  
+<img src="Images/edgeimpluse03.png" alt="sensor01" width="300"/>  
+<img src="Images/edgeimpluse04.png" alt="sensor01" width="300"/>  
 
 
-## Edge Impulse model architecture and optimization:
-
-## Performance analysis and metrics:
-
+## Performance analysis and metrics:  
+<img src="Images/sensor01.jpg" alt="sensor01" width="400"/>
 
 
 ## Discussion Questions:
