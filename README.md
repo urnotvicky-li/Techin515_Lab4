@@ -1,9 +1,11 @@
 # Techin515_Lab4
 Magic Wand:  
-<img src="Images/techin515_magicwand01.jpg" alt="Sample" width="400"/>
+<img src="Images/techin515_magicwand01.jpg" alt="enclsoure01" width="400"/>  
+<img src="Images/IMG_6036.jpg" alt="ensloure02" width="400"/>  
+
 Sensor:  
-<img src="Images/sensor01.jpg" alt="Sample" width="400"/>
-<img src="Images/sensor02.jpg" alt="Sample" width="400"/>
+<img src="Images/sensor01.jpg" alt="sensor01" width="400"/>
+<img src="Images/sensor02.jpg" alt="sensore02" width="400"/>
 
 ### Video 01 Link: https://drive.google.com/file/d/1muUuauE_8MSV_i0Ff8PW1j95K-GNkTY7/view?usp=sharing 
 ### Videl 02 Link: https://drive.google.com/file/d/1Q98iff1jx9BpyjaomakpaLEsOYEP4kXj/view?usp=sharing 
