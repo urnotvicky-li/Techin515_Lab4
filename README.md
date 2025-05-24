@@ -1,5 +1,5 @@
 # Techin515_Lab4
-Magic Wand:
+Magic Wand:---
 <img src="Images/techin515_magicwand01.jpg" alt="Sample" width="400"/>
 
 ### Video 01 Link: https://drive.google.com/file/d/1muUuauE_8MSV_i0Ff8PW1j95K-GNkTY7/view?usp=sharing 
