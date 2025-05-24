@@ -1,7 +1,7 @@
 # Techin515_Lab4
-Magic Wand:---
+Magic Wand:  
 <img src="Images/techin515_magicwand01.jpg" alt="Sample" width="400"/>
-Sensor:
+Sensor:  
 <img src="Images/sensor01.jpg" alt="Sample" width="400"/>
 <img src="Images/sensor02.jpg" alt="Sample" width="400"/>
 
