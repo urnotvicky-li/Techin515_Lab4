@@ -16,9 +16,9 @@ https://drive.google.com/file/d/1Q98iff1jx9BpyjaomakpaLEsOYEP4kXj/view?usp=shari
 <img src="Images/sensor01.jpg" alt="sensor01" width="400"/>  
 
 ## Edge Impulse model architecture and optimization:  
-<img src="Images/edgeimpluse01.png" alt="sensor01" width="300"/>  
+<img src="Images/edgeimpluse01.png" alt="sensor01" width="300"/>
 <img src="Images/edgeimpluse02.png" alt="sensor01" width="300"/>  
-<img src="Images/edgeimpluse03.png" alt="sensor01" width="300"/>  
+<img src="Images/edgeimpluse03.png" alt="sensor01" width="300"/>
 <img src="Images/edgeimpluse04.png" alt="sensor01" width="300"/>  
 
 
